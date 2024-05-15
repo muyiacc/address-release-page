@@ -1,4 +1,4 @@
-**Address Publishing Page | 地址发布页**
+**Address Release Page | 地址发布页**
 
 一个简单优美的地址发布页
 
