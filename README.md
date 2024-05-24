@@ -2,7 +2,7 @@
 
 一个简单优美的地址发布页
 
-[预览](http://haokan.000.pe/)
+[预览](https://haokan.000.pe/)
 
 pc
 
